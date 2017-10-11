@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Zhigalov/catch-error-async/issues"
   },
-  "homepage": "https://github.com/Zhigalov/catch-error-async#readme"
+  "homepage": "https://github.com/Zhigalov/catch-error-async#readme",
+  "devDependencies": {
+    "mocha": "4.0.1"
+  }
 }
