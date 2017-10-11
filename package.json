@@ -1,0 +1,25 @@
+{
+  "name": "catch-error-async",
+  "version": "1.0.0",
+  "description": "Catching errors throwed by async function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zhigalov/catch-error-async.git"
+  },
+  "keywords": [
+    "catch",
+    "error",
+    "throw",
+    "async"
+  ],
+  "author": "Sergey Zhigalov <zhigalov@yandex-team.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zhigalov/catch-error-async/issues"
+  },
+  "homepage": "https://github.com/Zhigalov/catch-error-async#readme"
+}
